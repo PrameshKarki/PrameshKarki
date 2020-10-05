@@ -25,4 +25,4 @@ I am Pramesh Karki,a passionate self taught web/app developer👨‍💻 from la
 
 - Email : Parameswarkarki@gmail.com
 - Twitter : [@PrameshKarki07](https://twitter.com/PrameshKarki07)
-- Portfolio : [karkipramesh.com.np](www.karkipramesh.com.np) 
+- Portfolio : [karkipramesh.com.np](http://www.karkipramesh.com.np) 
