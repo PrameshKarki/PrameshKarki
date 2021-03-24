@@ -27,4 +27,7 @@ I am a passionate self taught web/app developer👨‍💻 from land of Mount Ev
 
 - Email : Parameswarkarki@gmail.com
 - Twitter : [@PrameshKarki07](https://twitter.com/PrameshKarki07)
-- Portfolio : [prameshkarki.github.io](https://prameshkarki.github.io/) 
+- Portfolio : [prameshkarki.github.io](https://prameshkarki.github.io/)
+
+### Profile Views:
+![Visitor Count](https://profile-counter.glitch.me/PrameshKarki/count.svg)
