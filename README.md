@@ -1,35 +1,41 @@
 ![Banner](./img/cover.jpg)
 
-### About Me
+## About Me
 
 I am a passionate self taught web/app developer👨‍💻 from land of Mount Everest,Nepal.I tend to make use of modern web/app technologies to build websites/apps that looks great,feels fantastic and functions correctly. My goal is to always build products that provide pixel perfect, performant experiences.I love creating open-source projects and contributing to the community.
 
-### Mostly Work With ⚒
+## Mostly Work With ⚒
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-C96196?style=for-the-badge&logo=sass&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-712884?style=for-the-badge&logo=csharp&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express%20JS-ffffff?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EF4E32?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 |<img src="https://github-readme-stats.vercel.app/api?username=PrameshKarki&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrameshKarki"/>|
 |---|---|
 
 ![Pramesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrameshKarki&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
-### Most Used Languages 💻
+## Most Used Languages 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrameshKarki&layout=compact)](https://github.com/PrameshKarki)
 
 
-### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div>
  <a href="https://www.linkedin.com/in/pramesh-karki-7462a21b4" target="_blank">
@@ -50,5 +56,5 @@ I am a passionate self taught web/app developer👨‍💻 from land of Mount Ev
   
 </div>  
 
-### Profile Views:
+## Profile Views:
 ![Visitor Count](https://profile-counter.glitch.me/PrameshKarki/count.svg)
