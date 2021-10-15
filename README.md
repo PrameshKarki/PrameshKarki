@@ -28,8 +28,6 @@ I am a passionate self taught web/app developer👨‍💻 from land of Mount Ev
 |<img src="https://github-readme-stats.vercel.app/api?username=PrameshKarki&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrameshKarki"/>|
 |---|---|
 
-![Pramesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrameshKarki&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
-
 ## Most Used Languages 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrameshKarki&layout=compact)](https://github.com/PrameshKarki)
