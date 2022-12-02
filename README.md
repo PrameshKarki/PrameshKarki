@@ -1,7 +1,5 @@
-![Banner](./img/cover.jpg)
-
-## About Me
-
+<!-- ![Banner](./img/cover.jpg) -->
+<!-- ## About Me -->
 I am a passionate self taught web/app developer👨‍💻 from land of Mount Everest,Nepal.I tend to make use of modern web/app technologies to build websites/apps that looks great,feels fantastic and functions correctly. My goal is to always build products that provide pixel perfect, performant experiences.I love creating open-source projects and contributing to the community.
 
 ## Mostly Work With ⚒
