@@ -30,7 +30,7 @@ I am a passionate self taught web/app developer👨‍💻 from land of Mount Ev
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </section>
 
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+### <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="25px">
 
 <div>
  <a href="https://www.linkedin.com/in/pramesh-karki-7462a21b4" target="_blank">
@@ -50,6 +50,6 @@ I am a passionate self taught web/app developer👨‍💻 from land of Mount Ev
 </a>
   </div>
 
-## Profile Views:
+### Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/PrameshKarki/count.svg)
