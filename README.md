@@ -1,5 +1,4 @@
-I am a passionate self taught web/app developer👨‍💻 from land of Mount Everest,Nepal.I tend to make use of modern web/app technologies to build websites/apps that looks great,feels fantastic and functions correctly. My goal is to always build products that provide pixel perfect, performant experiences.I love creating open-source projects and contributing to the community.
-
+I am a software engineer 👨‍💻, adept at driving pivotal contributions to widely adopted projects.Adaptable,detail-oriented, and skilled in architecting solutions for intricate problems. A collaborative team player, relentless in pursuing excellence, and committed to perpetual learning. Actively seeking avenues to leverage expertise for transformative impact.
 ### Mostly Work With ⚒
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
